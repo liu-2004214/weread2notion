@@ -2,4 +2,3 @@ requests
 notion-client
 python-dotenv
 retrying
-notion-sdk-py>=2.2.0
