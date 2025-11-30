@@ -38,3 +38,4 @@ jobs:
           git add .
           git commit -m 'add new cover' || echo "nothing to commit"
           git push || echo "nothing to push"
+          notion-sdk-py==2.2.0
